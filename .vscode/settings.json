@@ -1,0 +1,14 @@
+{
+    "emmet.excludeLanguages": [
+
+        "markdown"
+    ],
+
+    "emmet.includeLanguages": {         // pro emmet funcionar no react
+        "javascript": "javascriptreact"
+    },
+    "emmet.preferences": {
+    
+    }
+
+}

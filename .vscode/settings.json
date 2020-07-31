@@ -9,6 +9,7 @@
     },
     "emmet.preferences": {
     
-    }
+    },
+    "eslint.enable": false
 
 }
